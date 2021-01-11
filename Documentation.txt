@@ -1,0 +1,6 @@
+node installatiion in win10
+
+npm install in directory
+
+npm install csv-parser
+
